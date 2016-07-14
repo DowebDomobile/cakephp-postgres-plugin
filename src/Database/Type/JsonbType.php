@@ -6,7 +6,7 @@
  * Time: 17:10
  */
 
-namespace App\Database\Type;
+namespace Postgres\Database\Type;
 
 use Cake\Database\Driver;
 use Cake\Database\Type;
@@ -14,7 +14,7 @@ use PDO;
 
 /**
  * Class JsonbType
- * @package App\Database\Type
+ * @package Postgres\Database\Type
  */
 class JsonbType extends Type
 {
