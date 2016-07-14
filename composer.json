@@ -1,5 +1,5 @@
 {
-    "name": "DowebDomobile/Postgres",
+    "name": "DowebDomobile/cakephp-postgres-plugin",
     "description": "Postgres plugin for CakePHP",
     "type": "cakephp-plugin",
     "require": {
